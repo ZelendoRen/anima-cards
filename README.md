@@ -1,7 +1,10 @@
 # ANIMA character cards
 
-Ready-made character cards (personality and facts) for the vanilla Skyrim NPCs, for the [ANIMA](https://github.com/ZelendoRen/anima-core) app. ANIMA downloads them from the latest release of this repository when you press **Settings › General › Download character cards**, or you can unpack `anima-cards-<version>.zip` into `<ANIMA data folder>/cards-pack/` yourself (the zip contains the `characters` folder).
+Character cards (personality and facts) for [ANIMA](https://github.com/ZelendoRen/anima-core), the app that lets you talk to Skyrim NPCs with your voice.
 
-Without the cards ANIMA still works: vanilla NPCs get a character picked from an archetype.
+- `vanilla/` — the vanilla Skyrim NPCs.
+- `mods/<Plugin.esp>/` — NPCs of mods. **Anyone can add a mod**: see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-License: CC BY-SA 3.0, see `LICENSE` and `ATTRIBUTION.md`. The ANIMA app itself has its own license.
+ANIMA downloads the vanilla cards and the cards of the mods you have installed from this repository (Settings › General › Download character cards) and checks every file before using it. Without cards ANIMA still works: a character is picked from an archetype or built from the mod's own data.
+
+License: CC BY-SA 3.0, see `LICENSE` and `ATTRIBUTION.md`. The ANIMA app has its own license.

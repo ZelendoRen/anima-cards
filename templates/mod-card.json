@@ -1,0 +1,11 @@
+{
+  "name": "Annelisse",
+  "plugin": "Immersive Wenches.esp",
+  "editorId": "IW_Mercenary_02_Annelisse_Whiterun_BUXOM",
+  "personality": "Two to five sentences in English: how this character speaks and behaves, what they want, what they fear. Concrete, no spoilers the character could not know.",
+  "facts": [
+    "One short fact per line: who they are, where they live, who they are tied to, what happened to them.",
+    "At most 30 facts, 300 characters each."
+  ],
+  "source": "Where the information comes from (the mod's own description, in-game dialogue, ...). Written in your own words."
+}

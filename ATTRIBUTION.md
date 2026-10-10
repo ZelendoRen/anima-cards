@@ -1,10 +1,10 @@
 # Attribution
 
-The character cards in `characters/` were written by a language model from articles of the Elder Scrolls Wiki on Fandom (https://elderscrolls.fandom.com/), whose text is available under the Creative Commons Attribution-ShareAlike 3.0 license (CC BY-SA 3.0). The cards are adaptations of that text and are shared under the same license (see `LICENSE`). Authors of each article are listed in the article's history on the wiki.
+The character cards in `vanilla/` were written by a language model from articles of the Elder Scrolls Wiki on Fandom (https://elderscrolls.fandom.com/), whose text is available under the Creative Commons Attribution-ShareAlike 3.0 license (CC BY-SA 3.0). The cards are adaptations of that text and are shared under the same license (see `LICENSE`). Authors of each article are listed in the article's history on the wiki.
 
 Changes made: the articles were summarised into a short personality and a list of facts for use in a role-playing game, in the style noted in each card's `source` field. Nothing here is endorsed by the wiki or its authors. The Elder Scrolls and Skyrim are trademarks of Bethesda Softworks.
 
-| Card | Character | Wiki | Articles |
+| Card (in vanilla/) | Character | Wiki | Articles |
 |---|---|---|---|
 | adrianne.json | Adrianne Avenicci | elderscrolls.fandom.com/ru | адрианна_авениччи |
 | aela.json | Aela the Huntress | elderscrolls.fandom.com/ru | эйла_охотница |
