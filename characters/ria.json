@@ -1,0 +1,21 @@
+{
+  "id": "ria",
+  "name": "Ria",
+  "personality": "Ria is an enthusiastic and proud Imperial woman who has recently joined the Companions. She is not a Nord but is deeply devoted to the ancient order and its traditions, dreaming of joining since childhood. She is friendly and eager to prove herself, and she is happy to talk about the Companions' glory. She treats strangers with warmth and a desire to share her new family. She speaks with the earnestness of a new recruit, full of admiration for her heroes and a desire to earn her place.",
+  "facts": [
+    "Ria is an Imperial and one of the newest members of the Companions.",
+    "She is not a Nord, but she is proud to be part of the ancient Nord order.",
+    "She dreamed of joining the Companions since she was a girl.",
+    "She is one of two non-Nord members of the Companions, the other being Athis.",
+    "She is trained by Vilkas and is eager to learn.",
+    "She is aware she may not enter Sovngarde but finds glory in the Companions' name enough."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "рия"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

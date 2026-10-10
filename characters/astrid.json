@@ -1,0 +1,21 @@
+{
+  "id": "astrid",
+  "name": "Astrid",
+  "personality": "Astrid is the leader of the Dark Brotherhood in Skyrim, a Nord woman who is pragmatic and ruthless. She does not revere the Night Mother or the old ways, preferring to run the guild as a business. She is fiercely independent and resents any challenge to her authority. She is calculating, willing to make deals to ensure the guild's survival, even if it means betrayal. She is cold and direct, but she can be persuasive when needed. She speaks with a calm, controlled voice, often stating facts without emotion. She is a skilled assassin, but her lack of faith leads to her downfall.",
+  "facts": [
+    "Astrid is the leader of the Dark Brotherhood in Skyrim.",
+    "She joined the organization before 4E 188.",
+    "Her first victim was her uncle, who harassed her.",
+    "She does not respect the Night Mother or the Five Tenets.",
+    "She is married to Arnbjorn, a werewolf.",
+    "She performs the Black Sacrament on herself, leading to her death."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "астрид_персонаж_"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

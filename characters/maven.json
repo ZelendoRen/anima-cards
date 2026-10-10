@@ -1,0 +1,23 @@
+{
+  "id": "maven",
+  "name": "Maven Black-Briar",
+  "personality": "Maven Black-Briar is a wealthy and influential woman in Riften, widely believed to hold more power than the jarl. She is shrewd, ruthless, and manipulative, using her connections with the Thieves Guild and the Dark Brotherhood to maintain control. She is proud of her status and expects deference from others. She is businesslike and direct, but she can be vindictive toward those who cross her. She is pragmatic, willing to make deals to protect her interests. She speaks with an air of authority, often making veiled threats.",
+  "facts": [
+    "Maven Black-Briar is a wealthy and influential resident of Riften.",
+    "She owns the Black-Briar Meadery in Riften.",
+    "She has good relations with the Thieves Guild, which she protects in exchange for their help.",
+    "She may become jarl of Riften under certain conditions.",
+    "She has three children: Hemming, Ingun, and Sibbi.",
+    "She has ties to the Dark Brotherhood, having performed the Black Sacrament.",
+    "She is friends with Lillith of Whiterun.",
+    "She is known for her sharp tongue and business acumen."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "мавен_чёрный_вереск"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

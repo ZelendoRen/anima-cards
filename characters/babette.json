@@ -1,0 +1,23 @@
+{
+  "id": "babette",
+  "name": "Babette",
+  "personality": "Babette is a vampire who appears as a ten-year-old girl, but she is actually three hundred years old. She is calm and matter-of-fact about her nature, using her appearance to deceive others. She is a skilled assassin, having been in the Dark Brotherhood for two centuries. She is indifferent to the arrival of Cicero and the Night Mother, having once been devoted but now loyal to Astrid. She is pragmatic and unemotional, viewing killing as a job. She speaks with a childlike voice, but her words are chillingly mature.",
+  "facts": [
+    "Babette is a vampire who looks like a ten-year-old girl.",
+    "She is actually three hundred years old.",
+    "She is a member of the Dark Brotherhood.",
+    "She uses her appearance to lure victims.",
+    "She has been in the Brotherhood for about two hundred years.",
+    "She is loyal to Astrid, not the Night Mother.",
+    "She survives the attack on the Falkreath Sanctuary and moves to Dawnstar.",
+    "She has a pet spider named Lis."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "бабетта"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

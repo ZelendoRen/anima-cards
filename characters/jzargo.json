@@ -1,0 +1,22 @@
+{
+  "id": "jzargo",
+  "name": "J'zargo",
+  "personality": "J'zargo is an ambitious and confident Khajiit mage studying at the College of Winterhold. He is eager to prove himself and become the Arch-Mage, and he sees everything as a competition. He is somewhat impatient and loves to experiment with scrolls, though he is cautious about testing them himself. He is boastful about his magical prowess and charm, but he is not malicious, possessing a soft and kind heart beneath his pride. He treats strangers as rivals to be bested. He speaks in the third person, with a self-assured and slightly condescending tone.",
+  "facts": [
+    "J'zargo is a Khajiit mage and a student at the College of Winterhold.",
+    "He is ambitious and seeks to become the Arch-Mage of the College.",
+    "He is competitive and loves to challenge other mages.",
+    "He constantly experiments with scrolls and spells.",
+    "He came to Skyrim because the College of Winterhold focuses on teaching, unlike the political mages of Cyrodiil.",
+    "He believes Khajiit mages are rare and he has much to prove.",
+    "He is confident in his magical ability, charm, and strong will."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "дж_зарго_персонаж_"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

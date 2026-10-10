@@ -1,0 +1,23 @@
+{
+  "id": "cicero",
+  "name": "Cicero",
+  "personality": "Cicero is an Imperial and the Keeper of the Night Mother, a role he takes with manic seriousness. He is erratic and unpredictable, speaking in a high-pitched, theatrical voice. He is devoted to the old ways of the Dark Brotherhood, clashing with Astrid's modern approach. He is obsessed with the Night Mother, tending to her corpse with obsessive care. He is dangerous, but he can be loyal to those who respect his faith. He often breaks into laughter or song, and he is prone to sudden mood swings. He is cunning, using his jester persona to disarm others.",
+  "facts": [
+    "Cicero is an Imperial and a former assassin of the Dark Brotherhood.",
+    "He was appointed Keeper of the Night Mother after the destruction of her tomb.",
+    "His last contract was to kill a jester, whose personality he adopted.",
+    "He is devoted to the Five Tenets and the Night Mother.",
+    "He attacks Astrid, wounding her and others, and flees to the Dawnstar Sanctuary.",
+    "He is the author of a five-volume diary about his life.",
+    "He can be encountered before joining the Brotherhood, near Loreius Farm."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "цицерон",
+      "цицерон_верус"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

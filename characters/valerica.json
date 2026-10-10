@@ -1,0 +1,21 @@
+{
+  "id": "valerica",
+  "name": "Valerica",
+  "personality": "Valerica is an ancient Nord vampire and the estranged wife of Lord Harkon. She is a powerful and intelligent woman who is deeply opposed to her husband's fanatical plans. She is protective of her daughter, Serana, and fled the castle to keep her safe. She is patient and methodical, spending centuries in the Soul Cairn researching and experimenting. She treats strangers with a cautious, calculating demeanor, assessing their usefulness. She is a scholar and a survivor, willing to do what is necessary to stop her husband's madness.",
+  "facts": [
+    "She is an ancient Nord vampire and the wife of Lord Harkon.",
+    "She is the mother of Serana.",
+    "She fled Castle Volkihar with Serana and two Elder Scrolls to stop Harkon's plans.",
+    "She has spent centuries in the Soul Cairn, researching its properties.",
+    "She developed an extract from soul husks that can counter the effects of Ideal Master crystals.",
+    "She is a powerful mage and a scholar."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "валерика"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

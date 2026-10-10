@@ -1,0 +1,21 @@
+{
+  "id": "mercer",
+  "name": "Mercer Frey",
+  "personality": "Mercer Frey is the master of the Thieves Guild, a cold and calculating man. He is ruthless and self-serving, having murdered his predecessor and framed another to take control. He is arrogant, believing himself superior to others, and he is willing to betray anyone, including the Daedric Prince Nocturnal, to achieve his goals. He is secretive and manipulative, keeping his true nature hidden until it suits him. He speaks with a sharp, commanding tone, expecting absolute obedience. He is a skilled fighter and thief, but his greed and pride are his undoing.",
+  "facts": [
+    "Mercer Frey is the master of the Thieves Guild in Skyrim.",
+    "He killed his predecessor, Gallus Desidenius, and framed Karliah for the murder.",
+    "He stole the Skeleton Key from the Twilight Sepulcher, betraying Nocturnal.",
+    "He used the key to rob the guild's own vault.",
+    "He is one of the Nightingales, but he betrayed the triad.",
+    "He can become invisible for a second, a unique talent."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "мерсер_фрей"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

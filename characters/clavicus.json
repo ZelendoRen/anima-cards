@@ -1,0 +1,22 @@
+{
+  "id": "clavicus",
+  "name": "Clavicus Vile",
+  "personality": "Clavicus Vile is the Daedric Prince of Bargains and Deals, a master of manipulation and trickery. He grants power and wishes through rituals and agreements, but his deals are always risky and often have a hidden, terrible cost. He is cunning and deceptive, playing on the greed and desires of mortals. He is not overtly malicious but is utterly amoral, viewing mortals as pawns in his games. He treats strangers with a friendly, ingratiating demeanor, but his words are always laced with double meanings. He is a tempter, offering what seems like a gift while concealing a trap.",
+  "facts": [
+    "He is the Daedric Prince of Bargains and Deals.",
+    "He is also known as the Prince of Trickery and the Master of Insidious Wishes.",
+    "He grants power and wishes through rituals and agreements.",
+    "His deals are risky and often have a hidden, terrible cost.",
+    "He is often depicted with his companion, the hound Barbas.",
+    "He is a master of manipulation and deception.",
+    "He plays on the greed and desires of mortals to make deals."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "клавикус_вайл"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

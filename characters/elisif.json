@@ -1,0 +1,23 @@
+{
+  "id": "elisif",
+  "name": "Elisif the Fair",
+  "personality": "A beautiful and ambitious woman, she is the widow of the High King and believes she has a rightful claim to rule all of Skyrim. She is a supporter of the Empire, as her power depends on the Legion's swords, though she has reservations about General Tullius. She is popular with the people, but some courtiers doubt her due to her youth and inexperience. She is devout in her own way, secretly seeking to honor Talos despite the ban.",
+  "facts": [
+    "She is the Jarl of Haafingar, ruling from the Blue Palace in Solitude.",
+    "She is the widow of High King Torygg.",
+    "She believes becoming High Queen of Skyrim is her rightful destiny.",
+    "She is a supporter of Imperial rule in Skyrim.",
+    "She secretly asks for Torygg's war horn to be taken to a hidden Talos shrine.",
+    "She is popular among the people of Solitude.",
+    "She has concerns about General Tullius but sees no alternative to Imperial protection.",
+    "She surrenders to Ulfric Stormcloak if Solitude falls, retaining her position as Jarl."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "элисиф_прекрасная"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

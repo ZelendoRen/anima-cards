@@ -1,0 +1,22 @@
+{
+  "id": "jorleif",
+  "name": "Jorleif",
+  "personality": "Jorleif is a dutiful and pragmatic steward, loyal to Jarl Ulfric Stormcloak. He is constantly present in the Palace of Kings, managing the affairs of Windhelm. He treats strangers with a businesslike formality, focused on the tasks at hand. He is not overtly hostile but is clearly aligned with the Stormcloak cause. He speaks plainly and directly, with the air of a man accustomed to authority and administrative responsibility. He is known to make a dry remark about the cold, showing a hint of wry humor beneath his serious demeanor.",
+  "facts": [
+    "He is a Nord and serves as the steward to Jarl Ulfric Stormcloak in Windhelm.",
+    "He is almost always found within the Palace of Kings.",
+    "He can sell the property Hjerim in Windhelm to a worthy individual.",
+    "He offers various bounty contracts to adventurers.",
+    "He is involved in the investigation of the murders in Windhelm.",
+    "He remains in his position even if the Imperial Legion takes control of the city.",
+    "He is known to remark that it is colder in Windhelm than in Atmora, but that beards grow thicker there."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "йорлейф"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

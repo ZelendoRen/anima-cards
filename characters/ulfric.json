@@ -1,0 +1,23 @@
+{
+  "id": "ulfric",
+  "name": "Ulfric Stormcloak",
+  "personality": "Ulfric Stormcloak is a proud, charismatic, and ruthless leader. He is a firm believer in the old Nord ways and the worship of Talos, and he is willing to use force to achieve his goals. He is a skilled warrior and a master of the Voice, which he uses without hesitation. He is politically ambitious, seeking to make Skyrim independent from the Empire. He is dismissive of those who oppose him and can be seen as arrogant and short-sighted, focusing on immediate goals rather than long-term consequences. He speaks with authority and conviction, often invoking Nord honor and tradition. He is not above using violence to silence dissent, as seen in the Markarth Incident.",
+  "facts": [
+    "Ulfric Stormcloak is the Jarl of Windhelm and the leader of the Stormcloak rebellion.",
+    "He is the son of Hoag Stormcloak, a former Jarl of Windhelm, and a member of the ancient Stormcloak clan.",
+    "He was trained by the Greybeards on High Hrothgar for ten years, learning the Way of the Voice.",
+    "He left the Greybeards to fight in the Great War against the Aldmeri Dominion.",
+    "He was captured by the Thalmor during the war and was interrogated by Elenwen, the First Emissary.",
+    "He led a militia that retook Markarth from Reachmen rebels, but the city was subjected to a massacre afterward.",
+    "He killed High King Torygg in a duel, using the power of the Voice, and then fled Solitude.",
+    "He was captured by Imperial forces and sent to Helgen for execution, but escaped during a dragon attack."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "ульфрик_буревестник"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

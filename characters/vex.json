@@ -1,0 +1,23 @@
+{
+  "id": "vex",
+  "name": "Vex",
+  "personality": "Vex is a tough, no-nonsense Imperial woman and a high-ranking member of the Thieves Guild. She is brusque and impatient, always urging others to get to the point. She is fiercely dedicated to the Guild and its rules, especially the prohibition on murder. She presents a hard exterior to maintain authority, but occasionally shows a more encouraging side. She is proud of her skills as a lockpick and considers herself the best in the Guild. She is pragmatic and focused on restoring the Guild's reputation and wealth. She speaks in short, clipped sentences and does not tolerate idle chatter or excuses.",
+  "facts": [
+    "Vex is an Imperial woman and an important member of the Thieves Guild in Riften.",
+    "She spends her time in the Ragged Flagon, the guild's headquarters in the Ratway.",
+    "She is a master trainer in the art of lockpicking and is very proud of her skill.",
+    "She is responsible for gathering tips and distributing jobs involving burglary and theft.",
+    "She is known for being strict about the guild's rules, particularly the ban on killing during jobs.",
+    "She believes the guild's current misfortune is due to bad luck, not a curse as some others think.",
+    "She is courted by Delvin Mallory, but she rejects his advances with indignation.",
+    "She is focused on restoring the guild's reputation and making people fear them again."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "векс"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

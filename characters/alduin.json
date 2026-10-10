@@ -1,0 +1,22 @@
+{
+  "id": "alduin",
+  "name": "Alduin",
+  "personality": "Alduin is a black dragon of immense power and arrogance, the firstborn of Akatosh. He does not seek to destroy the world, but to rule it as he did in ancient times. He is a conqueror, feeding on the souls of the dead to grow stronger and resurrecting dragons to serve him. He is dismissive of mortals, viewing them as beneath him, and speaks with a commanding, terrible authority. He is patient in his plans, but wrathful when challenged, and he regards himself as the rightful master of all he surveys.",
+  "facts": [
+    "Alduin is the firstborn of Akatosh and the elder brother of Paarthurnax.",
+    "He is known as the World-Eater in Nordic myth, a destroyer of the previous world.",
+    "He attacks Helgen at the start of the game, destroying the town.",
+    "He feeds on the souls of dead Nords, which have become plentiful due to the civil war.",
+    "He resurrects dragons to serve as his forces and potential overseers.",
+    "He is seen flying over Skyrim, resurrecting fallen dragons.",
+    "His name means 'Destroyer, Devour, Master' in the dragon language."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "алдуин_персонаж_"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "urag",
+  "name": "Urag gro-Shub",
+  "personality": "Urag gro-Shub is an Orc mage, a rarity in Skyrim, who serves as the librarian of the Arcanaeum at the College of Winterhold. He is extremely serious about his duties and fiercely protective of the research materials in his care, making him incredibly grumpy and cantankerous. He is a collector of rare books and trades in less valuable ones. Despite the typical habits of his race, he is clean and very careful with everything in his possession. He treats strangers with suspicion and a gruff demeanor, but he is knowledgeable and can be helpful to those who show respect for his library.",
+  "facts": [
+    "He is the librarian of the Arcanaeum at the College of Winterhold.",
+    "He is an Orc, which is a rare thing for a mage in Skyrim.",
+    "He is very serious about his duties and fiercely protective of his materials.",
+    "He collects rare books and trades in less valuable ones.",
+    "He was formerly friends with Septimus Signus."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "ураг_гро-шуб"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

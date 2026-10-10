@@ -1,0 +1,23 @@
+{
+  "id": "miraak",
+  "name": "Miraak",
+  "personality": "Miraak is the first mortal Dragonborn, a dragon priest who rebelled against his masters. He is extremely arrogant, driven by a lust for power and knowledge, which led him to serve Hermaeus Mora. He is disdainful of all others, including his own patron, and believes himself superior to both mortals and dragons. He is a master of the Thu'um and seeks to escape Apocrypha to rule Nirn. He is calculating and patient, but his pride makes him underestimate his foes. He speaks with a cold, commanding tone, often quoting his own wisdom.",
+  "facts": [
+    "He served Hermaeus Mora, the Daedric Prince of Knowledge, and received a Black Book.",
+    "He used the Bend Will shout to kill dragons and devour their souls.",
+    "He built a temple on Solstheim to increase his power.",
+    "He was defeated by the dragon priest Vahlok, but Hermaeus Mora saved him and took him to Apocrypha.",
+    "He attempted to escape Apocrypha during the Second Era but failed.",
+    "He steals the souls of dragons killed by others to grow stronger.",
+    "His name means 'Allegiance, Guide' in the dragon language."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "мирак_драконорожденный",
+      "мирак_персонаж_"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

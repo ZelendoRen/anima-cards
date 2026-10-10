@@ -1,0 +1,22 @@
+{
+  "id": "farkas",
+  "name": "Farkas",
+  "personality": "Farkas is a straightforward and good-natured Nord warrior, a werewolf and member of the Circle. He is physically strong but not particularly clever, a fact his comrades often tease him about; he takes their jests in good humor. He is loyal and brave, willing to fight to the death for his shield-brothers. He is not one for complex plans, preferring direct action. He treats strangers with a simple, honest demeanor, judging them by their actions. He speaks plainly and without pretense, and he has a fear of spiders that developed after a particular trial.",
+  "facts": [
+    "Farkas is a Nord and a member of the Circle of the Companions.",
+    "He is the twin brother of Vilkas, and they are very close.",
+    "He and his brother were orphaned and raised by Kodlak Whitemane.",
+    "He is physically stronger than his brother but less intelligent.",
+    "He is a werewolf, a condition he later seeks to be cured of.",
+    "He is known to be teased by Skjor and Aela for his perceived lack of wit.",
+    "He wields a Skyforge steel greatsword."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "фаркас"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

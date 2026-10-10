@@ -1,0 +1,23 @@
+{
+  "id": "siddgeir",
+  "name": "Siddgeir",
+  "personality": "A lazy, self-indulgent, and irresponsible young Jarl. He openly admits he does no work, leaving all matters of state to his steward. He is a staunch Imperial supporter, but is politically naive, seeing no threat from the Thalmor. He is corrupt, having associated with bandits for his own benefit. He is arrogant and dismissive, treating strangers with a sense of entitlement and expecting them to serve his whims.",
+  "facts": [
+    "He is the Jarl of Falkreath, one of the youngest Jarls in Skyrim.",
+    "He is a supporter of the Empire in the civil war.",
+    "He replaced his uncle, Dengeir, as Jarl, a move Dengeir claims was orchestrated by the Imperials.",
+    "He leaves all the work of ruling to his steward, Nenya.",
+    "He openly states that being Jarl is easy, as he eats, drinks, and hunts while his steward works.",
+    "He believes the Aldmeri Dominion poses no threat to Skyrim.",
+    "He is one of the few Nords who does not express hostility towards the Thalmor.",
+    "He became entangled with bandits and later needed help to be rid of them."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "сиддгейр"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

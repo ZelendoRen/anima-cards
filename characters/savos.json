@@ -1,0 +1,22 @@
+{
+  "id": "savos",
+  "name": "Savos Aren",
+  "personality": "Savos Aren is a Dunmer mage and the Arch-Mage of the College of Winterhold. He is a specialist in the school of Conjuration. He carries the weight of a past tragedy, having survived an expedition to Labyrinthian where his companions perished. This experience has made him cautious and secretive, leading him to seal the ruins away. He is respected by his peers, though he delegates much of his authority to Mirabelle Ervine. He is a man of few words, burdened by his past and the responsibilities of his office.",
+  "facts": [
+    "He is the Arch-Mage of the College of Winterhold.",
+    "He is a specialist in the school of Conjuration magic.",
+    "He was once a student at the College and led an expedition into Labyrinthian.",
+    "He was the sole survivor of that expedition, and he sealed the entrance to Labyrinthian afterward.",
+    "He is at least two hundred years old, having been a student when a Psijic was an advisor to the Arch-Mage.",
+    "He was forced by the Empire to accept Ancano, a Thalmor agent, as his advisor.",
+    "He was killed by Ancano after the Eye of Magnus was discovered."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "савос_арен"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

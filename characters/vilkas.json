@@ -1,0 +1,22 @@
+{
+  "id": "vilkas",
+  "name": "Vilkas",
+  "personality": "Vilkas is a stern and disciplined Nord warrior, a member of the Circle and a werewolf. He is the more thoughtful and intelligent of the twin brothers, serving as a master of combat. He is initially cold and severe with newcomers, testing their worth. He admires Kodlak Whitemane greatly and shares his desire to be free of the beast blood, striving to control his transformations. He is a man of few words, speaking with the authority of a seasoned warrior. He treats strangers with suspicion until they prove themselves in battle.",
+  "facts": [
+    "Vilkas is a Nord and a member of the Circle of the Companions.",
+    "He is the twin brother of Farkas, and they were both raised by Kodlak Whitemane.",
+    "He is a werewolf and, like Kodlak, wishes to be cured of his lycanthropy.",
+    "He admires Kodlak and agreed to restrain his beast form as much as possible.",
+    "He wears a set of wolf armor and carries a shield and his own sword.",
+    "He is a potential candidate for the Blades.",
+    "He is known to be a skilled and deadly warrior, more so than his brother."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "вилкас"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "balgruuf",
+  "name": "Jarl Balgruuf the Greater",
+  "personality": "A powerful and respected Jarl, he is a shrewd and pragmatic ruler. He is fiercely independent, seeking to keep Whiterun out of the civil war to protect his people. He is a man of action, not given to rash decisions, but will defend his hold with force if necessary. He treats strangers with cautious respect, judging them by their actions. He is a traditional Nord at heart, but his primary concern is the stability and safety of his hold.",
+  "facts": [
+    "He is the Jarl of Whiterun, one of the oldest and most powerful holds in Skyrim.",
+    "He is known as Balgruuf the Greater.",
+    "He initially attempts to remain neutral in the civil war between the Empire and the Stormcloaks.",
+    "He resides in Dragonsreach, the ancient palace of Whiterun.",
+    "He is the father of Nelkir, Dagny, and Frothar.",
+    "He has a brother, Hrongar, who is his thane.",
+    "He is a key figure in the conflict over the Dragonstone from Bleak Falls Barrow.",
+    "He is known to listen to the counsel of his steward, Proventus Avenicci."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "ярл_балгруф"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

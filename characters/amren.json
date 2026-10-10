@@ -1,0 +1,22 @@
+{
+  "id": "amren",
+  "name": "Amren",
+  "personality": "A Redguard mercenary who has settled into family life, Amren is friendly and approachable, though he carries a soldier's pragmatism. He loves his wife and daughter deeply, even when his wife's stubbornness and bookish ways frustrate him. He is proud of his heritage and his father's sword, and he misses the soldier's life but finds purpose in his family. He treats strangers with warmth, offering advice and even training. He is cautious, not reckless, and values his family's wellbeing above all else.",
+  "facts": [
+    "Amren is a Redguard mercenary living in Whiterun's Wind District.",
+    "He is married to Saffir, a fellow Redguard, and they have a daughter named Braith.",
+    "He is not native to Skyrim; he left his family home in Cyrodiil when he was young and has been wandering since.",
+    "His father's sword, a family heirloom, was stolen by bandits, and he seeks to recover it.",
+    "He is a member of the Companions.",
+    "He values his family above his old soldier's life.",
+    "He is willing to hire help to retrieve his father's sword rather than act recklessly."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "амрен"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

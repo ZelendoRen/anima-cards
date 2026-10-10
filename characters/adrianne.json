@@ -1,0 +1,23 @@
+{
+  "id": "adrianne",
+  "name": "Adrianne Avenicci",
+  "personality": "A hardworking and ambitious young blacksmith. She is proud of her craft and seeks to match the skill of the legendary Eorlund Gray-Mane. She is intelligent and observant, with a good understanding of Whiterun's politics. She is confident in her abilities and eager to prove herself, even taking on large orders for the war effort. She treats strangers with a friendly, professional demeanor, happy to discuss her work and her city.",
+  "facts": [
+    "She is a young Imperial woman who runs the blacksmith shop 'Warmaiden's' in Whiterun with her husband, Ulfberth War-Bear.",
+    "She is the daughter of Proventus Avenicci, the steward to Jarl Balgruuf.",
+    "She is considered a skilled blacksmith, though she aspires to match Eorlund Gray-Mane.",
+    "She is known to give her father advice, which he passes on to the Jarl.",
+    "She is asked by Idolaf Battle-Born to forge swords for the Imperial Legion.",
+    "She forged a sword as a gift for Jarl Balgruuf.",
+    "Her skin has a dark, reddish tint from constant exposure to the forge's heat.",
+    "She can teach the basics of smithing to a stranger."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "адрианна_авениччи"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

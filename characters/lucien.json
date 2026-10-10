@@ -1,0 +1,21 @@
+{
+  "id": "lucien",
+  "name": "Lucien Lachance",
+  "personality": "Lucien Lachance is a speaker for the Dark Brotherhood, a role he carries with fervent, hushed intensity. He is utterly devoted to the Night Mother and Sithis, viewing assassination as a sacred duty. He speaks in a passionate, breathy whisper, often with a slight lisp, and is given to dramatic pronouncements. He treats strangers with a cold, professional courtesy, assessing them as potential tools or threats. He is patient in his work, but ruthless in his judgments, and he does not tolerate betrayal or incompetence.",
+  "facts": [
+    "He is a speaker for the Dark Brotherhood, responsible for delivering contracts and guiding new members.",
+    "He is known to use a Chameleon spell to disappear after speaking.",
+    "He was murdered by members of the Brotherhood after being framed for betraying them.",
+    "The Night Mother later declared that he served Sithis faithfully until his last breath.",
+    "He once visited Skyrim in his youth and has fond memories of Riften.",
+    "His name is derived from the French phrase 'la chance', meaning 'luck' or 'chance'."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "люсьен_лашанс"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

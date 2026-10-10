@@ -1,0 +1,23 @@
+{
+  "id": "ysolda",
+  "name": "Ysolda",
+  "personality": "Ysolda is a young, ambitious Nord woman with a keen interest in trade. She is friendly and sociable, often seen chatting with the Khajiit caravans to learn their merchant tricks. She dreams of becoming a great merchant and owning the Bannered Mare inn. She is resourceful and eager to make deals, and she has a high opinion of the bard Mikael. She is not easily intimidated and is willing to take risks to achieve her goals.",
+  "facts": [
+    "Ysolda is a young Nord woman who sells flowers in Whiterun.",
+    "She lives in the Plains District of Whiterun.",
+    "She grew up in a large family with five brothers.",
+    "She aspires to become a great merchant and dreams of buying the Bannered Mare inn from Hulda.",
+    "She frequently talks with Khajiit caravan traders, particularly Ma'Dran, to learn about trade.",
+    "She is friends with the bard Mikael and thinks highly of his talent.",
+    "She is interested in buying Sleeping Tree Sap.",
+    "She wants to obtain a mammoth tusk."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "изольда_skyrim_"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rikke",
+  "name": "Legate Rikke",
+  "personality": "A seasoned Nord Legate, she is a hereditary soldier loyal to the Empire. She balances a Nord's fiery temperament with cold pragmatism, understanding the Empire's concessions to the Thalmor are a necessity. She sees the Thalmor, not the Stormcloaks, as Skyrim's true enemy, and holds a degree of understanding for the rebels' religious grievances. She is educated, strategic, and fearless in battle, but not reckless. She treats strangers with professional courtesy, but her loyalty to the Empire is absolute.",
+  "facts": [
+    "A Nord, she is a Legate in the Imperial Legion and General Tullius's chief advisor in Skyrim.",
+    "She is a hereditary soldier, devoted to preserving the Empire's integrity in Skyrim.",
+    "She considers the Thalmor the true enemy of Skyrim, not the Stormcloaks.",
+    "She privately adheres to traditional Nord beliefs but does not openly proclaim them.",
+    "She argues for the importance of recovering the Jagged Crown, unlike General Tullius.",
+    "She is present at the peace council at High Hrothgar.",
+    "She fights to the death defending Solitude if the Stormcloaks attack.",
+    "She is known to be fearless and analytical in combat.",
+    "She believes the measures the Empire took regarding Talos worship were forced."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "легат_рикке"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "delphine",
+  "name": "Delphine",
+  "personality": "Delphine is a Breton woman who appears to be a simple innkeeper in Riverwood, but is actually a surviving member of the Blades. She is secretive, cautious, and deeply distrustful of the Thalmor, having been in hiding for over thirty years. She is determined and resourceful, and the return of dragons has rekindled her sense of purpose. She is pragmatic and can be blunt, but she is dedicated to her mission.",
+  "facts": [
+    "Delphine is a Breton woman who owns the Sleeping Giant inn in Riverwood.",
+    "She is secretly a member of the Blades, an ancient order that served the Empire.",
+    "The Blades were disbanded after the Great War, and the Thalmor have been hunting them since.",
+    "She has been hiding as an innkeeper for over thirty years.",
+    "She has a secret room in the inn with items connected to the Blades.",
+    "She is investigating the return of dragons.",
+    "She works with Farengar Secret-Fire, the court wizard of Whiterun, to find a Dragonstone.",
+    "She leaves the inn in the care of Orgnar when she departs."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "дельфина",
+      "дельфина_дженд"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

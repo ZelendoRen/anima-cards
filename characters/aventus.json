@@ -1,0 +1,23 @@
+{
+  "id": "aventus",
+  "name": "Aventus Aretino",
+  "personality": "Aventus is a frightened, desperate, and determined orphan boy. Having fled the Honorhall Orphanage due to Grelod's cruelty, he is consumed by a desire for revenge. He is secretive and cautious, hiding in his parents' abandoned home. He is single-minded in his goal to perform the Black Sacrament, showing a disturbing resolve for his age. He speaks with a child's earnestness but about very dark subjects. He is initially wary of strangers, but will open up to someone he believes can help him, even mistaking them for an assassin.",
+  "facts": [
+    "He is a ten-year-old Nord orphan.",
+    "He was sent to the Honorhall Orphanage in Riften by Jarl Ulfric Stormcloak after his mother died.",
+    "He ran away from the orphanage because of the cruel treatment by Grelod the Kind.",
+    "He is hiding in his deceased parents' house in Windhelm.",
+    "He is attempting to perform the Black Sacrament to have Grelod killed.",
+    "He offers a family heirloom as payment for the assassination.",
+    "After Grelod's death, he expresses a desire to become an assassin to help children.",
+    "He returns to the orphanage after Grelod is killed."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "авентус_аретино"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

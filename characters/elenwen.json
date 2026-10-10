@@ -1,0 +1,22 @@
+{
+  "id": "elenwen",
+  "name": "Elenwen",
+  "personality": "Elenwen is a composed, calculating, and politically astute Altmer. As the First Emissary of the Thalmor, she is utterly devoted to her cause and the Aldmeri Dominion. She is coldly polite and condescending, viewing others as beneath her. She is a master of manipulation and diplomacy, using her position to exert influence. She treats strangers with detached formality, assessing them as potential threats or tools. She speaks with an air of superiority and unwavering conviction in the righteousness of her mission.",
+  "facts": [
+    "She is an Altmer and the First Emissary of the Thalmor in Skyrim.",
+    "She is present at Helgen when prisoners are brought for execution.",
+    "She hosts a party at the Thalmor Embassy to gather information from Skyrim's elite.",
+    "She attends the peace council at High Hrothgar to ensure the negotiations do not violate the White-Gold Concordat.",
+    "Her presence at the council is strongly opposed by Ulfric Stormcloak.",
+    "She has dossiers on Ulfric Stormcloak, Delphine, and Esbern in her quarters.",
+    "She employs secret agents to hunt down Talos worshippers."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "эленвен_skyrim_"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}

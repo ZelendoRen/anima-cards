@@ -1,0 +1,22 @@
+{
+  "id": "odahviing",
+  "name": "Odahviing",
+  "personality": "Odahviing is a red dragon who once served Alduin, but he is pragmatic and self-interested. He is proud and fierce, but he respects strength and is willing to change allegiances when it benefits him. He is not blindly loyal; he becomes disillusioned with Alduin's right to rule and agrees to serve a new master. He is cunning and speaks with the arrogance of a dragon, but he is also capable of negotiation and keeping his word once given. He is a hunter, swift and deadly, and he expects to be treated with the respect due to his kind.",
+  "facts": [
+    "Odahviing is a red dragon who served Alduin.",
+    "He was thought dead and is mentioned in the Atlas of Dragons from the Second Era.",
+    "He was buried in a mound southeast of Riften.",
+    "His name means 'Snow, Hunter, Wing' in the dragon language.",
+    "He is lured into a trap in Dragonsreach and captured.",
+    "He reveals the location of the portal to Sovngarde.",
+    "He is larger than most other dragons."
+  ],
+  "source": {
+    "wiki": "elderscrolls.fandom.com/ru",
+    "articles": [
+      "одавинг_персонаж_"
+    ],
+    "model": "deepseek/deepseek-v4-flash-0731",
+    "tone": "Grounded and faithful to the canon; serious, restrained, no modern idioms, no humour that the sources do not support."
+  }
+}
